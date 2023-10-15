@@ -12,3 +12,13 @@ Link paginas oficiais do vite e do tailwindcss
 https://vitejs.dev/guide/
 
 https://tailwindcss.com/docs/guides/vite
+
+
+instalar axios
+
+npm i axios
+
+
+cadastro na plataforma openai key
+
+https://platform.openai.com/playground
